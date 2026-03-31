@@ -1,4 +1,9 @@
 # The Kähler-Clockfield Metric  
+
+Companion repo to: 
+
+https://github.com/anttiluode/K-hler-Clockfield-Metric-Spinor-Emergence/
+
 ### Spinor Emergence, Covariant Time Dilation, and the Topological Origin of the Fine-Structure Constant
 
 This repository contains the foundational mathematical manuscript for the **Clockfield Framework**. It bridges quantum phase geometry and General Relativity by treating the local flow of proper time ($\Gamma$) as the conformal factor of the Fubini–Study metric.
